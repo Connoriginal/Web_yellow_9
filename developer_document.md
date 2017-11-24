@@ -85,7 +85,7 @@ CSS, HTML, Javascript is used in this code.
 |File/Folder|Description|
 |---|---|
 |**css**|ie8.css,ie9.css : includes support in Internet Explorer 8 and 9|
-|**main.css**|main.css : basic structure in web, using this file in main.html|
+|**main.css**|main.css : contains code that make basic structure on web| 
 |**fonts**|define the font family,boldness,size,and the style of a text|
 |**js**|contains java script files|
 |**scss**|contains scss files that help us use css|
@@ -126,7 +126,7 @@ CSS, HTML, Javascript is used in this code.
 
 ### Images ###
 ```
-├── Ai
+├── AI
 	├── .DS_Store
 	├── 1.jpg
 		...
@@ -150,7 +150,10 @@ CSS, HTML, Javascript is used in this code.
 
 |File/Folder|Description|
 |---|---|
-|**news**|Contains card news image files |
+|**AI**|Contains card news image files that  explain AI|
+|**Clinical**|Contains card news image files that explain Clinical|
+|**deathPenalty**|Contains card news image files that explain deathPenalty|
+|**jap**|Contains card news image files that raise a problem about korean confused with japanese|
 |**banana.jpg**|Our logo image file|
 |**pic01~15.jpg**|basically given image files|
 
