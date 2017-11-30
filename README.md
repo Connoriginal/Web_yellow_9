@@ -42,9 +42,6 @@
 
 
 
-If you want to know about our website you must checkout : (주소 변경 남아있음)[구운바나나 documentation](https://hexo.io/docs/)
-
-
 ##### For developers
 
 
