@@ -29,7 +29,7 @@ Web-yellow-10
 ├────slider
 ├────LICENSE
 ├────README.md
-├────.DS_STORE
+└────.DS_STORE
 ```
 
 |File/Folder|Description|
@@ -99,7 +99,7 @@ CSS, HTML, Javascript is used in this code.
 	├── ittech.html
 	├── license.html
 	├── life.html
-	├── map.html
+	└── map.html
 ├── news_html
 	├── DS_Store
 	├── Al.html
@@ -108,9 +108,9 @@ CSS, HTML, Javascript is used in this code.
 	├── deathPenalty.html
 	├── default.html
 	├── jap.html
-	├── neighbor.html
+	└── neighbor.html
 ├── DS_Store
-├── main.html
+└── main.html
 ```
 
 
@@ -168,12 +168,12 @@ CSS, HTML, Javascript is used in this code.
 		...
 ├── trasitions
 	├── slideshow-transition-builder-controller.min.js
-	├── slideshow-transitions(360).html
+	└── slideshow-transitions(360).html
 ├── bower.json
 ├── component.json
 ├── jquery-1.9.1.min.js
 ├── jssor.slider.min.js
-├── package.json
+└── package.json
 ```
 
 
