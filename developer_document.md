@@ -187,5 +187,9 @@ Basic introduction of our web.
 
 ## Credits ##
 Basic template : [Phantom by HTML5UP](https://html5up.net)
+
 Image slider : [jssor slider](https://www.jssor.com)
+
 Map : [Google Maps api](https://developers.google.com/maps/documentation/javascript/adding-a-google-map?hl=ko)
+
+Reference : [LouisBarranqueiro/hexo-theme-tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/developer.md#build)
