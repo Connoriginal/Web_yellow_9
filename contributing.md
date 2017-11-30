@@ -24,3 +24,14 @@ Before a pull request :
 
 
  - Don't forget to update user and/or developer documentation if it's necessary
+
+
+## Adding News or Categories ##
+
+You should use the default.html to write and article or make categories.
+
+you need to handle all of the adding files to the html.
+
+ - There are default.html in each categories and news.
+
+ - You have to add every html which has relation to your new html.
