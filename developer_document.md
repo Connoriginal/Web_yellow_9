@@ -84,17 +84,18 @@ CSS, HTML, Javascript is used in this code.
 ```
 |File/Folder|Description|
 |---|---|
-|**css**|ie8.css,ie9.css : includes support in Internet Explorer 8 and 9|
-|**main.css**|main.css : basic structure in web, using this file in main.html|
-|**fonts**|define the font family,boldness,size,and the style of a text|
-|**js**|contains java script files|
-|**scss**|contains scss files that help us use css|
+|**css**|ie8.css,ie9.css : Includes support in Internet Explorer 8 and 9|
+|**main.css**|main.css : Basic structure in web, using this file in main.html|
+|**fonts**|Define the font family,boldness,size,and the style of a text|
+|**js**|Contains java script files|
+|**scss**|Contains scss files that help us use css|
 
 ### Html ###
 ```
 ├── cate_html
 	├── DS_Store
 	├── cur_ev.html
+	├── default.html
 	├── ittech.html
 	├── license.html
 	├── life.html
@@ -105,6 +106,7 @@ CSS, HTML, Javascript is used in this code.
 	├── FB_research.html
 	├── clinical_ex.html
 	├── deathPenalty.html
+	├── default.html
 	├── jap.html
 	├── neighbor.html
 ├── DS_Store
@@ -116,11 +118,13 @@ CSS, HTML, Javascript is used in this code.
 |---|---|
 |**cate_html**|Contains codes that create 'Menu' tab on the right side of the web|
 |**cate_html/cur_ev.html**|Contains codes that display card news of the "Current issues" category|
+|**cate_html/default.html**|Contains codes that provide basic frame of category|
 |**cate_html/ittech.html**|Contains codes that display card news of the "IT and Technology" category|
 |**cate_html/license**|Contains codes that displays 'License Warranty' on the web|
 |**cate_html/life**|Contains codes that display card news of the "Life" category|
 |**cate_htm/map**|Contains codes that display maps so that you can contact us offline|
 |**news_html**|Contains codes that create card news|
+|**news_html/default.html**|Contains codes that provide basic frame of news|
 |**main.html**|Contains codes that display the main screen of the web|
 
 
@@ -152,7 +156,7 @@ CSS, HTML, Javascript is used in this code.
 |---|---|
 |**news**|Contains card news image files |
 |**banana.jpg**|Our logo image file|
-|**pic01~15.jpg**|basically given image files|
+|**pic01~15.jpg**|Basically given image files|
 
 
 ### Slider ###
