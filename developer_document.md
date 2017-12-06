@@ -1,4 +1,5 @@
 # Developer documentation #
+Team : navy05
 This documentation will help you understand more about our codes of the web.
 Short explanation of the files are offered. Some files do not have explanations.
 If you want to report a bug, ask a question, get more information, [Contact Us](https://github.com/TaeUnisef/Web_yellow_9)
@@ -20,7 +21,7 @@ If you want to report a bug, ask a question, get more information, [Contact Us](
 - Author :  Yoon Chan Woong, Choi Jin Woo
 
 ## Structure ##
-Web-yellow-10
+Web-yellow-09
 ```
 ├────RemoteSystemsTempFiles
 ├────assets
@@ -188,6 +189,12 @@ File that guarantees the license of our web(MIT).
 
 ### README.md ###
 Basic introduction of our web.
+
+### Communications.pdf ###
+Ways to communicate with us.
+
+### Contributing.md ###
+How to make contributions(adding news and categories, pull requests, etc)
 
 ## Credits ##
 Basic template : [Phantom by HTML5UP](https://html5up.net)
